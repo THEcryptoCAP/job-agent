@@ -1,0 +1,102 @@
+app:
+  name: "Autonomous Job Agent"
+  version: "1.0.0"
+  debug: true
+
+database:
+  type: "sqlite"
+  path: "data/job_agent.db"
+
+job_sources:
+  linkedin:
+    enabled: true
+    easy_apply_only: true
+    max_per_day: 50
+    search_params:
+      keywords: []
+      location: ""
+      remote_only: false
+
+  indeed:
+    enabled: true
+    max_per_search: 50
+
+  wellfound:
+    enabled: true
+    remote_only: true
+
+scoring:
+  min_score: 60
+  weights:
+    title_match: 25
+    skills_match: 30
+    location_match: 15
+    salary_match: 15
+    experience_match: 15
+
+automation:
+  headless: false
+  slow_mode: true
+  delay_min: 1000
+  delay_max: 3000
+
+ai:
+  provider: "openai"
+  model: "gpt-4"
+  temperature: 0.7
+  max_tokens: 2000
+
+cover_letter:
+  style: "modern"
+  max_words: 350
+  include_contact: true
+
+notifications:
+  email:
+    enabled: false
+    smtp_host: ""
+    smtp_port: 587
+    username: ""
+    password: ""
+    from_email: ""
+    to_emails: []
+
+  whatsapp:
+    enabled: false
+    twilio_sid: ""
+    twilio_token: ""
+    from_number: ""
+    to_number: ""
+
+tracking:
+  fit_score_threshold: 60
+  auto_apply: true
+  blacklist: []
+  whitelist: []
+
+user:
+  profile:
+    name: ""
+    email: ""
+    phone: ""
+    location: ""
+    linkedin_url: ""
+    summary: ""
+  experience: []
+  education: []
+  skills: []
+  certifications: []
+  languages: []
+
+platforms:
+  linkedin:
+    email: ""
+    password: ""
+
+  indeed:
+    email: ""
+    password: ""
+
+  wellfound:
+    email: ""
+    password: ""

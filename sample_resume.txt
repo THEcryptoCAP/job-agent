@@ -1,0 +1,43 @@
+John Doe
+john.doe@email.com
++1 555-123-4567
+San Francisco, CA
+linkedin.com/in/johndoe
+
+SUMMARY
+--------
+Experienced Software Engineer with 5+ years of experience building scalable web applications and services. Proficient in Python, JavaScript, and cloud technologies. Passionate about building efficient, maintainable solutions.
+
+EXPERIENCE
+----------
+Senior Software Engineer at Tech Corp
+2021 - Present
+- Led development of microservices architecture serving 1M+ users
+- Improved API response time by 40% through optimization
+- Mentored team of 4 junior engineers
+
+Software Engineer at StartupXYZ
+2018 - 2021
+- Built full-stack web applications using React and Node.js
+- Implemented real-time features using WebSockets
+- Reduced database query time by 60%
+
+EDUCATION
+----------
+Bachelor of Science in Computer Science
+University of California, Berkeley
+2014 - 2018
+
+SKILLS
+------
+Python, JavaScript, TypeScript, React, Node.js, AWS, Docker, Kubernetes, PostgreSQL, MongoDB, Redis, Git, CI/CD
+
+CERTIFICATIONS
+--------------
+AWS Certified Solutions Architect
+Google Cloud Professional Developer
+
+LANGUAGES
+---------
+English (Native)
+Spanish (Conversational)

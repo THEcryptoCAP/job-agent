@@ -1,0 +1,33 @@
+Avinash Singh
+Final Year, B.Tech in Biochemical & Biotechnological Engineering
+Indian Institute of Technology, Delhi
+Email: cryptocapinoid@gmail.com
+Github Profile: https://github.com/THEcryptoCAP
+LinkedIn URL: https://www.linkedin.com/in/avinash-singh-33335a259/
+
+PROFESSIONAL EXPERIENCE
+
+Founder's Office Intern | Technical Operations
+HansHills & Co. (Asset Management/PE Firm) | Delhi, India | Aug 2025 – Oct 2025
+- Product Ownership (0-to-1): Independently spearheaded the architectural design and deployment of the corporate website (hanshillsco.com). Successfully transitioned the interactive digital asset from conception to production.
+- Workflow Automation: Implemented micro-interactive user interfaces and automated welcome-mail functionalities
+- Stakeholder & Governance Interaction: Engaged in high-level discussions with institutional investors
+
+Full Stack Developer (MERN) | PolyNews.in (Prediction Markets Data Aggregator) | Remote | May 2025 – Jul 2025
+- Advanced Data Retrieval: Developed sophisticated semantic search utility for prediction market data from Polymarket, Kalshi, Metaculus
+- Cross-Functional Technical Collaboration: Global collaboration on open-source data pipeline
+- Metrics Visualization: Built dynamic Leaderboard visualization tool
+
+Coordinator (Admin & Finance) | TRYST, IIT Delhi (Asia's Largest Tech Fest) | Feb 2025 – Mar 2025
+- Appointed to position of substantial administrative responsibility (top 1.5% of applicants)
+- Directly liaised with institutional Deans for regulatory and financial compliance
+
+EDUCATION
+Indian Institute of Technology, Delhi (IITD)
+B.Tech in Biochemical and Biotechnological Engineering | Expected Graduation: May 2026
+
+TECHNICAL SKILLS
+Languages: JavaScript, Solidity (Smart contract programming)
+Web Stack: MERN (MongoDB, Express, React, Node.js), HTML5, CSS3, Tailwind CSS
+Database/APIs: MongoDB, REST APIs, JSON data handling
+Tools: Git, GitHub, Jira/Ticketing Systems
