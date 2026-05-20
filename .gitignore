@@ -39,3 +39,11 @@ Thumbs.db
 credentials.json
 *.pem
 *.key
+
+# Personal data (never commit)
+data/avinash_resume.txt
+*.personal.*
+
+# Temp scripts
+push_to_github.sh
+*.sh
