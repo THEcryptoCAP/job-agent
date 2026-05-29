@@ -4,20 +4,6 @@
 
 ---
 
-## The Story
-
-I was tired. Not the "haven't slept in days" tired, but the soul-deep exhaustion of sending out 50+ applications and hearing... nothing. Just the endless cycle of:
-
-- Spend hours tailoring resume → Hit "Easy Apply" → Wait → Repeat
-
-I was an IIT Delhi student with solid skills (MERN, React, Node.js), good internships, but still nothing. The ATS was rejecting me before a human even saw my profile. The job boards felt like shouting into a void.
-
-So I built this.
-
-**This isn't just another job application bot.** It's my personal job search assistant that actually understands what recruiters want, matches me with jobs that actually fit, and handles the boring stuff so I can focus on interview prep.
-
----
-
 ## What This Does
 
 ### 🎯 Smart Job Matching
